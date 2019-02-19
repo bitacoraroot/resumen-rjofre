@@ -1,0 +1,35 @@
+- education:
+  degree: Maestría
+  university: Escuela Europea de Negocios
+  time: 2009
+  details: "MBA. Dirección y Administración de Empresas."
+- education:
+  degree: Diplomado
+  university: Universidad Privada Boliviana-UPB
+  time: 2012
+  details: "Diplomado en Gestión y Desarrollo de Recursos Humanos."
+- education:
+  degree: Diplomado
+  university: Universidad Privada del Valle
+  time: 2005
+  details: "Diplomado en Educación Superior."
+- education:
+  degree: Licenciatura
+  university: Universidad Católica Boliviana
+  time: 1998 - 2004
+  details: "Administración de Empresas <br> Título Académico <br> Título en Provisión Nacional."
+- education:
+  degree: Técnico Superior
+  university: Instituto Británico Mercantil IBM
+  time: 2005
+  details: "Contabilidad General."
+- education:
+  degree: Técnico Medio
+  university: Instituto Británico Mercantil IBM
+  time: 2003
+  details: "Operador de Computadoras."
+- education:
+  degree: Educación Básica
+  university: Colegio Daniel Sánchez Bustamante
+  time: 1984 - 1997
+  details: "Bachiller en Humanidades."
