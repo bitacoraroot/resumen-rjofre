@@ -2,10 +2,10 @@
 title: Hoja de Vida/CV Roxana Jofre.
 # url: 'http://webjeda.com'
 # url: 'http://127.0.0.1:4000'
-url: 'https://bitacoraroot.github.io'
-# url: 'https://resumen.roxanajofre.ga'
+# url: 'https://bitacoraroot.github.io'
+url: "https://resumen.roxanajofre.ga"
 # baseurl: '/online-cv' #change it according to your repository name
-baseurl: '/rjofrecv' #change it according to your repository name
+# baseurl: '/rjofrecv' #change it according to your repository name
 #baseurl: '' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -21,8 +21,6 @@ style: styles-4  #Dark Mavue
 #Profile information
 # name: Rosa Roxana Jofré Heredia
 name: Roxana Jofre
-#tagline: Full Stack Developer
-# tagline: Administradora de Empresas
 tagline: MBA. Admin. de Empresas
 registro: CADEC N° JRH-318  # Include by TeroRERO
 pic: rjofre.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
