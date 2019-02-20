@@ -2,9 +2,11 @@
 title: Hoja de Vida/CV Roxana Jofre.
 # url: 'http://webjeda.com'
 # url: 'http://127.0.0.1:4000'
-url: 'https://bitacoraroot.github.io'
+# url: 'https://bitacoraroot.github.io'
+url: 'https://resumen.roxanajofre.ga'
 # baseurl: '/online-cv' #change it according to your repository name
-baseurl: '/resumen-rjofre' #change it according to your repository name
+# baseurl: '/resumen-rjofre' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
