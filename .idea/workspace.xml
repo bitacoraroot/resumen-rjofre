@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="536d2370-d63b-4222-875a-7a8d662de868" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
@@ -82,26 +84,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" selection-start-line="4" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-73">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor>
@@ -113,7 +109,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+        <entry file="file://$PROJECT_DIR$/_includes/career-profile.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/education.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/educations.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/experiences.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor>
@@ -137,7 +184,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor>
@@ -157,6 +204,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -181,11 +229,6 @@
               <item name="resumen-rjofre" type="b2602c69:ProjectViewProjectNode" />
               <item name="resumen-rjofre" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="resumen-rjofre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resumen-rjofre" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550699985096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550700914460" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -222,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550589225729</updated>
-      <workItem from="1550589227281" duration="2977000" />
+      <workItem from="1550589227281" duration="3430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2977000" />
+    <option name="totallyTimeSpent" value="3430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="36" width="1172" height="740" extended-state="0" />
@@ -269,10 +312,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor>
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="135" selection-start-line="3" selection-start-column="135" selection-end-line="3" selection-end-column="135" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-822">
             <caret selection-end-line="1" />
           </first_editor>
           <second_editor />
@@ -282,6 +342,30 @@
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="10" column="89" lean-forward="true" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/educations.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/experiences.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
           <first_editor>
             <caret selection-end-line="1" />
           </first_editor>
@@ -289,7 +373,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor>
@@ -309,17 +393,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" selection-start-line="4" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/career-profile.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/education.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
