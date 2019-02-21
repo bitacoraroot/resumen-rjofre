@@ -2,8 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="536d2370-d63b-4222-875a-7a8d662de868" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/languages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/languages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles-3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles-4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles-5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles-6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/rjofre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/min/main-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/default/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/default/default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/default/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/default/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/default/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles-2.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles-3.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles-4.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles-5.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles-6.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/theme-2/theme-2.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/theme-3/theme-3.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/theme-4/theme-4.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/theme-5/theme-5.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/less/theme-6/theme-6.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/plugins/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +89,6 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="60">
                 <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,18 +163,27 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="150">
-                <caret line="10" column="89" lean-forward="true" selection-end-line="1" />
+                <caret line="10" column="89" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            <state relative-caret-position="83">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/languages.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -133,6 +200,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_data/languages.yml" />
       </list>
     </option>
   </component>
@@ -175,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550701223107" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550716405414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -202,12 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550589225729</updated>
-      <workItem from="1550589227281" duration="3619000" />
+      <workItem from="1550589227281" duration="5944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3619000" />
+    <option name="totallyTimeSpent" value="5944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="36" width="1172" height="740" extended-state="0" />
@@ -364,7 +432,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="150">
-            <caret line="10" column="89" lean-forward="true" selection-end-line="1" />
+            <caret line="10" column="89" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
@@ -372,8 +440,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        <state relative-caret-position="83">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/languages.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
