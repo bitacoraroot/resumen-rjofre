@@ -13,18 +13,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/career-profile.html">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/education.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
@@ -88,10 +76,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="268">
+              <caret line="31" column="98" selection-start-line="30" selection-start-column="60" selection-end-line="31" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -100,17 +100,17 @@
         <entry file="file://$PROJECT_DIR$/_data/languages.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="150">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,7 +135,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="59" />
-    <option name="y" value="27" />
+    <option name="y" value="24" />
     <option name="width" value="1172" />
     <option name="height" value="740" />
   </component>
@@ -150,6 +150,11 @@
             <path>
               <item name="resumen-rjofre" type="b2602c69:ProjectViewProjectNode" />
               <item name="resumen-rjofre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resumen-rjofre" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resumen-rjofre" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="resumen-rjofre" type="b2602c69:ProjectViewProjectNode" />
@@ -196,16 +201,19 @@
       <updated>1550589225729</updated>
       <workItem from="1550589227281" duration="6761000" />
       <workItem from="1550722267074" duration="185000" />
+      <workItem from="1550793230313" duration="459000" />
+      <workItem from="1550802008523" duration="796000" />
+      <workItem from="1550939618124" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6946000" />
+    <option name="totallyTimeSpent" value="8206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="27" width="1172" height="740" extended-state="0" />
+    <frame x="59" y="24" width="1172" height="740" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2539823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26725665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -223,7 +231,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Missing In Actions" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -250,6 +258,46 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
@@ -265,16 +313,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-822">
-            <caret selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor>
             <caret selection-end-line="1" />
           </first_editor>
           <second_editor />
@@ -362,17 +400,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/languages.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -380,9 +421,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownHtmlPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="150">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" column="98" selection-start-line="30" selection-start-column="60" selection-end-line="31" selection-end-column="98" />
         </state>
       </provider>
     </entry>
